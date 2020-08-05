@@ -2,13 +2,13 @@
 
 This repository contains the information about the group project for **MScA 37014 Python for Analytics**.
 
-**Professor** Shahbaz Chaudhary
+**Professor:** _Shahbaz Chaudhary_
 
 **Team:**
 
-* Albert Seo [aseo@uchicago.edu](aseo@uchicago.edu)
-* Matt Kendall [mkendall@uchicago.edu](mkendall@uchicago.edu)
-* Oleksiy Anokhin [anokhin@uchicago.edu](anokhin@uchicago.edu)
-* Surendiran Rangaraj [surendiran@uchicago.edu](surendiran@uchicago.edu)
+* _Albert Seo_ [aseo@uchicago.edu](aseo@uchicago.edu)
+* _Matt Kendall_ [mkendall@uchicago.edu](mkendall@uchicago.edu)
+* _Oleksiy Anokhin_ [anokhin@uchicago.edu](anokhin@uchicago.edu)
+* _Surendiran Rangaraj_ [surendiran@uchicago.edu](surendiran@uchicago.edu)
 
 
