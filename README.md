@@ -11,4 +11,6 @@ This repository contains the information about the group project for **MScA 3701
 * _Oleksiy Anokhin_ [anokhin@uchicago.edu](anokhin@uchicago.edu)
 * _Surendiran Rangaraj_ [surendiran@uchicago.edu](surendiran@uchicago.edu)
 
+**Useful information**
 
+[GitHub template for organizing files for data analysis](https://github.com/AndersenLab/IBiS-Bootcamp/wiki/Organizing-files-for-data-analysis)
