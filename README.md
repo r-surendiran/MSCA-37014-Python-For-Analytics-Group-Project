@@ -14,7 +14,7 @@ This repository contains the information about the group project for **MScA 3701
 * **[Surendiran Rangaraj](https://www.linkedin.com/in/surendiran-rangaraj-29463119/)** (surendiran@uchicago.edu)
 
 
-Our data-driven journalist department **(Alberto Seo | Matt Kendall | Oleksiy Anokhin | Surendran Rangaraj)** at the **Gargoyle Times** delivered a data-driven report, having explored Foreign Labor Certification data by the U.S. Department of Labor.
+Our data-driven journalist department **(Alberto Seo | Matt Kendall | Oleksiy Anokhin | Surendiran Rangaraj)** at the **Gargoyle Times** delivered a data-driven report, having explored Foreign Labor Certification data by the U.S. Department of Labor.
 
 **Data source:** https://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
 
